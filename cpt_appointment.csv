@@ -1,0 +1,3 @@
+Train,Appointment,attend,miss
+on time,attend,0.9,0.1
+delayed,attend,0.6,0.4

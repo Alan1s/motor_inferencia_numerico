@@ -1,0 +1,7 @@
+Rain,Maintenance,yes,no
+none,yes,0.4,0.6
+none,no,0.6,0.4
+light,yes,0.2,0.8
+light,no,0.8,0.2
+heavy,yes,0.1,0.9
+heavy,no,0.9,0.1
